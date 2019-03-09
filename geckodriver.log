@@ -196,3 +196,350 @@ IPDL protocol error: Handler returned error code!
 	Using the fallback 'C' locale.
 [Parent 12006, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
 1552141099113	Marionette	INFO	Stopped listening on port 45185
+1552154470249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PPIuTlxEMmyw"
+
+(firefox:3315): Gtk-WARNING **: 19:01:10.271: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154470554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552154470554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:3315): GLib-GIO-WARNING **: 19:01:10.701: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:3479): Gtk-WARNING **: 19:01:10.905: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:3495): Gtk-WARNING **: 19:01:11.010: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154471409	Marionette	INFO	Listening on port 36473
+1552154471455	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3581): Gtk-WARNING **: 19:01:11.928: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154501264	Marionette	INFO	Stopped listening on port 36473
+1552154502472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qcD0oMuYZwG5"
+
+(firefox:3653): Gtk-WARNING **: 19:01:42.494: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154502748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552154502748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:3653): GLib-GIO-WARNING **: 19:01:42.887: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:3811): Gtk-WARNING **: 19:01:43.076: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:3827): Gtk-WARNING **: 19:01:43.177: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154503549	Marionette	INFO	Listening on port 45707
+1552154503576	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3913): Gtk-WARNING **: 19:01:44.100: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[Parent 3653, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1552154529772	Marionette	INFO	Stopped listening on port 45707
+1552154548135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AJrIX88tP8Bx"
+
+(firefox:3980): Gtk-WARNING **: 19:02:28.158: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154548412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552154548413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:3980): GLib-GIO-WARNING **: 19:02:28.553: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:4141): Gtk-WARNING **: 19:02:28.746: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:4158): Gtk-WARNING **: 19:02:28.847: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154549233	Marionette	INFO	Listening on port 39491
+1552154549242	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4242): Gtk-WARNING **: 19:02:29.768: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154574981	Marionette	INFO	Stopped listening on port 39491
+1552154581537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5GEUFNxoqdDb"
+
+(firefox:4300): Gtk-WARNING **: 19:03:01.559: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154581805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552154581805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:4300): GLib-GIO-WARNING **: 19:03:01.945: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:4452): Gtk-WARNING **: 19:03:02.134: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:4468): Gtk-WARNING **: 19:03:02.235: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154582711	Marionette	INFO	Listening on port 37965
+1552154582741	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4554): Gtk-WARNING **: 19:03:03.192: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552154612292	Marionette	INFO	Stopped listening on port 37965
+1552154614079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c4S23HoiLmKD"
+
+(firefox:4608): Gtk-WARNING **: 19:03:34.100: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154614352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552154614353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:4608): GLib-GIO-WARNING **: 19:03:34.490: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:4771): Gtk-WARNING **: 19:03:34.679: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:4787): Gtk-WARNING **: 19:03:34.779: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154615141	Marionette	INFO	Listening on port 33005
+1552154615188	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4866): Gtk-WARNING **: 19:03:35.701: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154626817	Marionette	INFO	Stopped listening on port 33005
+1552154684089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yNBrQVbL3JWu"
+
+(firefox:4960): Gtk-WARNING **: 19:04:44.111: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154684360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552154684361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:4960): GLib-GIO-WARNING **: 19:04:44.504: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:5115): Gtk-WARNING **: 19:04:44.691: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5131): Gtk-WARNING **: 19:04:44.792: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154685181	Marionette	INFO	Listening on port 39709
+1552154685195	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5217): Gtk-WARNING **: 19:04:45.715: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://mangadex.org/bootstrap/js/bootstrap.min.js?1, line 6: TypeError: i is undefined
+JavaScript error: https://mangadex.org/bootstrap/js/bootstrap-select.min.js?1, line 7: TypeError: a is undefined
+JavaScript error: https://mangadex.org/scripts/lightbox2/js/lightbox.js, line 14: TypeError: $ is not a function
+JavaScript error: https://mangadex.org/scripts/js/reporting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://mangadex.org/login, line 334: ReferenceError: jQuery is not defined
+[Parent 4960, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 4960, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 4960, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552154711170	Marionette	INFO	Stopped listening on port 39709
+1552154716141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5noWqrRD8lMd"
+
+(firefox:5275): Gtk-WARNING **: 19:05:16.163: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154716417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552154716417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:5275): GLib-GIO-WARNING **: 19:05:16.558: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:5439): Gtk-WARNING **: 19:05:16.748: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5455): Gtk-WARNING **: 19:05:16.848: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552154717288	Marionette	INFO	Listening on port 35009
+1552154717347	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5535): Gtk-WARNING **: 19:05:17.770: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://mangadex.org/scripts/jquery.touchSwipe.min.js, line 14: ReferenceError: jQuery is not defined
+JavaScript error: https://mangadex.org/bootstrap/js/bootstrap.min.js?1, line 6: TypeError: i is undefined
+JavaScript error: https://mangadex.org/bootstrap/js/bootstrap-select.min.js?1, line 7: TypeError: a is undefined
+JavaScript error: https://mangadex.org/scripts/lightbox2/js/lightbox.js, line 14: TypeError: $ is not a function
+JavaScript error: https://mangadex.org/scripts/js/reporting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://mangadex.org/login, line 334: ReferenceError: jQuery is not defined
+1552154725733	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+[Parent 5275, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552154737127	Marionette	INFO	Stopped listening on port 35009
+1552156138029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PqJ0notp9Ggu"
+
+(firefox:5947): Gtk-WARNING **: 19:28:58.051: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552156138305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552156138305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:5947): GLib-GIO-WARNING **: 19:28:58.441: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:6111): Gtk-WARNING **: 19:28:58.632: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:6127): Gtk-WARNING **: 19:28:58.732: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552156139114	Marionette	INFO	Listening on port 45531
+1552156139140	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6209): Gtk-WARNING **: 19:28:59.652: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://mangadex.org/scripts/jquery.touchSwipe.min.js, line 14: ReferenceError: jQuery is not defined
+JavaScript error: https://mangadex.org/bootstrap/js/bootstrap.min.js?1, line 6: TypeError: i is undefined
+JavaScript error: https://mangadex.org/bootstrap/js/bootstrap-select.min.js?1, line 7: TypeError: a is undefined
+JavaScript error: https://mangadex.org/scripts/lightbox2/js/lightbox.js, line 14: TypeError: $ is not a function
+JavaScript error: https://mangadex.org/scripts/js/reporting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://mangadex.org/login, line 334: ReferenceError: jQuery is not defined
+1552156147490	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+
+(/usr/lib/firefox/firefox:6291): Gtk-WARNING **: 19:29:28.137: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552156184855	Marionette	INFO	Stopped listening on port 45531
+1552156216646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VH9gQYRCARNJ"
+
+(firefox:6373): Gtk-WARNING **: 19:30:16.668: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552156216918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552156216918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:6373): GLib-GIO-WARNING **: 19:30:17.057: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:6536): Gtk-WARNING **: 19:30:17.248: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:6552): Gtk-WARNING **: 19:30:17.349: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552156217728	Marionette	INFO	Listening on port 39753
+1552156217755	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 19:30:18.288: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[Parent 6373, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552156245123	Marionette	INFO	Stopped listening on port 39753
+1552167462499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XFXsrYwZKoC7"
+
+(firefox:10691): Gtk-WARNING **: 22:37:42.523: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167462792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552167462792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10691): GLib-GIO-WARNING **: 22:37:42.940: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:10854): Gtk-WARNING **: 22:37:43.134: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:10870): Gtk-WARNING **: 22:37:43.236: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167463631	Marionette	INFO	Listening on port 38339
+1552167463704	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10955): Gtk-WARNING **: 22:37:44.155: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167472842	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+[Parent 10691, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552167485775	Marionette	INFO	Stopped listening on port 38339
+1552167510504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NIEqYr6ysMzR"
+
+(firefox:11014): Gtk-WARNING **: 22:38:30.526: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167510780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552167510780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:11014): GLib-GIO-WARNING **: 22:38:30.922: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:11178): Gtk-WARNING **: 22:38:31.116: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11194): Gtk-WARNING **: 22:38:31.217: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167511617	Marionette	INFO	Listening on port 33903
+1552167511711	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11273): Gtk-WARNING **: 22:38:32.140: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[Parent 11014, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 11014, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552167532589	Marionette	INFO	Stopped listening on port 33903
+1552167586625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CRzVhKSrON8c"
+
+(firefox:11352): Gtk-WARNING **: 22:39:46.646: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167586895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552167586895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:11352): GLib-GIO-WARNING **: 22:39:47.033: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:11516): Gtk-WARNING **: 22:39:47.224: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11532): Gtk-WARNING **: 22:39:47.325: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167587703	Marionette	INFO	Listening on port 44799
+1552167587734	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11617): Gtk-WARNING **: 22:39:48.265: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[Parent 11352, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552167602113	Marionette	INFO	Stopped listening on port 44799
+1552167634880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t4W5SeYhP6g3"
+
+(firefox:11682): Gtk-WARNING **: 22:40:34.902: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167635155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552167635155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:11682): GLib-GIO-WARNING **: 22:40:35.293: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:11837): Gtk-WARNING **: 22:40:35.490: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11853): Gtk-WARNING **: 22:40:35.588: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167635973	Marionette	INFO	Listening on port 45345
+1552167635985	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11935): Gtk-WARNING **: 22:40:36.509: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[Parent 11682, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552167650304	Marionette	INFO	Stopped listening on port 45345
+1552167685175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ruPTH5cmM1NN"
+
+(firefox:12004): Gtk-WARNING **: 22:41:25.197: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167685447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552167685448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:12004): GLib-GIO-WARNING **: 22:41:25.589: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:12161): Gtk-WARNING **: 22:41:25.779: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12177): Gtk-WARNING **: 22:41:25.880: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167686260	Marionette	INFO	Listening on port 42957
+1552167686280	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12264): Gtk-WARNING **: 22:41:26.819: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[Parent 12004, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1552167698703	Marionette	INFO	Stopped listening on port 42957
+1552167730871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xt5jy8Sefovp"
+
+(firefox:12329): Gtk-WARNING **: 22:42:10.893: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167731139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552167731139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:12329): GLib-GIO-WARNING **: 22:42:11.281: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:12492): Gtk-WARNING **: 22:42:11.474: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12508): Gtk-WARNING **: 22:42:11.574: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1552167731979	Marionette	INFO	Listening on port 38595
+1552167732077	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12601): Gtk-WARNING **: 22:42:12.493: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[Parent 12329, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/src/firefox-65.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552167744531	Marionette	INFO	Stopped listening on port 38595
