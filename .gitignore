@@ -1,5 +1,7 @@
 venv/
 Mangalist
-Chapterlist
 cred
 .vscode
+geckodriver.log
+log
+.gitignore
