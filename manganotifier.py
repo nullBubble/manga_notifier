@@ -51,5 +51,9 @@ with open("log","w") as f:
     f.write(table.get_string())
 #f.write("\nNeed to check Grand Blue and Kekkon Yubiwa on Mangahere.\n")
 
+#
+# TODO Implement email notification ability.
+#
+
 driver.close()
 driver.quit()
