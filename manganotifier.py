@@ -36,7 +36,7 @@ def send_mail(sub,filename):
     except:
         print("Fail")
 
-with open("Mangalist","r") as f:
+with open("Mangalist.txt","r") as f:
     output = f.readlines()
 
 # this removes the trailing \n character and the rsplit creates for every entry a list with name in the first and ch. number in the 2nd place
@@ -55,7 +55,7 @@ table.field_names = ["Name", "Current", "Latest"]
 
 options = Options()
 options.headless = True
-fp = webdriver.FirefoxProfile('/path/to/profile')
+fp = webdriver.FirefoxProfile('/home/minh/.mozilla/firefox/xfica4w6.default')
 
 # use profile so we dont have to log in everytime. trying to avoid bot detection on the website. 
 driver = webdriver.Firefox(firefox_profile=fp,options=options)
