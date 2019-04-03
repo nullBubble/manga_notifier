@@ -8,6 +8,7 @@ Compares the name and chapters given in the list with the ones on https://mangad
 settings should filter to the approriate language e.g. filter in english only if you read english translations.
 Writes a log file with the current and laest chapter and sends the logfile.txt to an specified email. Credentials
 and target email are to be provided in the config.py
+The sender email account must allow the use of less secure apps for this send_mail method to work.
 
 Q: Why the use of a firefox profile?
 
