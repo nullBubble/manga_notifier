@@ -55,7 +55,7 @@ table.field_names = ["Name", "Current", "Latest"]
 
 options = Options()
 options.headless = True
-fp = webdriver.FirefoxProfile('/path/to/profile')
+fp = webdriver.FirefoxProfile('/path/to/firefox/profile')
 
 # use profile so we dont have to log in everytime. trying to avoid bot detection on the website. 
 driver = webdriver.Firefox(firefox_profile=fp,options=options)
@@ -64,7 +64,7 @@ driver.get("https://mangadex.org")
 time.sleep(1.5)
 
 with open("log.txt","w") as f:
-        i = 0
+    i = 0
     for manga in mangalist:
         driver.find_element_by_id('quick_search_input').send_keys(manga['name'], Keys.RETURN)
         #clicks on the correct search result
