@@ -15,7 +15,7 @@ Q: Why the use of a firefox profile?
 A: Repeated log in depending on how often you set the script to run, would tick of the bot detection so I use an 
    firefox profile with an logged in account in mangadex.
    
-Q: Why the unnecessary print?
+Q: Why the unnecessary prints?
 
 A: Just used them for testing.
 
