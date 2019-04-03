@@ -1,0 +1,35 @@
++----------------------+---------+--------+
+|         Name         | Current | Latest |
++----------------------+---------+--------+
+|  Ballroom e Youkoso  |    46   |  46.5  |
+| Gekkan Shoujo Nozaki |   102   |  104   |
+|   Hatsukoi Zombie    |   159   |  167   |
+|       Horimiya       |    96   |   97   |
+|      Koi to Uso      |   189   |  189   |
+| Mushoku Tensei ~Isek |    51   |  51.5  |
+|     The New Gate     |    45   |   46   |
+| Tomo-chan wa Onna no |   890   |  912   |
+| Karakai Jouzu no (Mo |    76   |   78   |
+| Karakai Jouzu no Tak |    98   |  100   |
+| Ijiranaide, Nagatoro |    32   |  34.5  |
+|       Berserk        |   357   |  357   |
+|    Made in Abyss     |    50   |   51   |
+|     Yotsuba to!      |   101   |   99   |
+| 5Toubun no Hanayome  |    76   |   79   |
+| Kono Bijutsubu ni wa |    73   |   74   |
+| Komi-san wa Komyusho |   185   |  192   |
+| Senpai ga Uzai Kouha |    64   |   67   |
+| Pashiri na Boku to K |    30   |   31   |
+| Kaguya-sama wa Kokur |   141   |  144   |
+| Bokutachi wa Benkyou |   102   |  105   |
+| Henjyo - Hen na Jyos |    35   |   35   |
+| Uzaki-chan wa Asobit |    25   |   26   |
+| I'm Nearly 30, but t |    10   |   12   |
+| Tate no Yuusha no Na |    52   |   53   |
+|     Pseudo Harem     |    31   |   35   |
+| The Duke of Death an |    74   |   77   |
+|    Hakoiri Drops     |    71   |   73   |
+| Sachiiro no One Room |    29   |   30   |
+| Tonari no Furi-san g |    0    |   5    |
+| Nande Koko ni Sensei |    0    |   41   |
++----------------------+---------+--------+

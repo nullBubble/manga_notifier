@@ -1,0 +1,35 @@
++-----------------+---------+--------+
+|       Name      | Current | Latest |
++-----------------+---------+--------+
+| Ballroom e Youk |    0    |   46   |
+| Gekkan Shoujo N |    1    |  102   |
+| Hatsukoi Zombie |    2    |  159   |
+|     Horimiya    |    3    |   96   |
+|    Koi to Uso   |    4    |  189   |
+| Mushoku Tensei  |    5    |   51   |
+|   The New Gate  |    6    |   45   |
+| Tomo-chan wa On |    7    |  890   |
+| Karakai Jouzu n |    8    |   76   |
+| Karakai Jouzu n |    9    |   98   |
+| Ijiranaide, Nag |    10   |   32   |
+|     Berserk     |    11   |  357   |
+|  Made in Abyss  |    12   |   50   |
+|   Yotsuba to!   |    13   |  101   |
+| 5Toubun no Hana |    14   |   76   |
+| Kono Bijutsubu  |    15   |   73   |
+| Komi-san wa Kom |    16   |  185   |
+| Senpai ga Uzai  |    17   |   64   |
+| Pashiri na Boku |    18   |   30   |
+| Kaguya-sama wa  |    19   |  141   |
+| Bokutachi wa Be |    20   |  102   |
+| Henjyo - Hen na |    21   |   35   |
+| Uzaki-chan wa A |    22   |   25   |
+| I'm Nearly 30,  |    23   |   10   |
+| Tate no Yuusha  |    24   |   52   |
+|   Pseudo Harem  |    25   |   31   |
+| The Duke of Dea |    26   |   74   |
+|  Hakoiri Drops  |    27   |   71   |
+| Sachiiro no One |    28   |   29   |
+| Tonari no Furi- |    29   |   0    |
+| Nande Koko ni S |    30   |   0    |
++-----------------+---------+--------+
