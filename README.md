@@ -7,7 +7,7 @@ Berserk 357
 Compares the name and chapters given in the list with the ones on https://mangadex.org which needs an account. Account 
 settings should filter to the approriate language e.g. filter in english only if you read english translations.
 Writes a log file with the current and laest chapter and sends the logfile.txt to an specified email. Credentials
-and target email are to be provied in the config.py
+and target email are to be provided in the config.py
 
 Q: Why the use of a firefox profile?
 
