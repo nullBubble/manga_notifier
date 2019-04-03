@@ -55,7 +55,7 @@ table.field_names = ["Name", "Current", "Latest"]
 
 options = Options()
 options.headless = True
-fp = webdriver.FirefoxProfile('/home/minh/.mozilla/firefox/xfica4w6.default')
+fp = webdriver.FirefoxProfile('/path/to/profile')
 
 # use profile so we dont have to log in everytime. trying to avoid bot detection on the website. 
 driver = webdriver.Firefox(firefox_profile=fp,options=options)
