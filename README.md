@@ -1,6 +1,6 @@
 # manga_notifier
 
-A small python program that reads a file named 'Mangalist.txt' in the same directory in the following format separated by newlines
+A small python program that reads a file named 'Mangalist.txt' in the same directory separated by newlines in the following format
 
 Berserk 357
 
