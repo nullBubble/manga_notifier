@@ -4,7 +4,7 @@ A small python program that reads a file named 'Mangalist.txt' in the same direc
 
 Berserk 357
 
-The full name name like on mangadex must be written in the Mangalist.txt
+The full name like on mangadex must be written in the Mangalist.txt
 
 Compares the name and chapters given in the list with the ones on https://mangadex.org which needs an account. Account 
 settings should filter to the approriate language e.g. filter in english only if you read english translations.
