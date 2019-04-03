@@ -13,7 +13,7 @@ The sender email account must allow the use of less secure apps for this send_ma
 Q: Why the use of a firefox profile?
 
 A: Repeated log in depending on how often you set the script to run, would tick off the bot detection so I use an 
-   firefox profile with an logged in account in mangadex.
+   firefox profile with an alraedy logged in account in mangadex.
    
 Q: Why the unnecessary prints?
 
