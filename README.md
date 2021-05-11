@@ -17,16 +17,8 @@ Q: Why the use of a firefox profile?
 A: Repeated log in depending on how often you set the script to run, would tick off the bot detection so I use an 
    firefox profile with an alraedy logged in account in mangadex.
    
-Q: Why the unnecessary prints?
-
-A: Just used them for testing.
-
 Q: Why the time.sleep(x)?
 
 A: Same as first question. Website doesnt like too many quick requests.
 
-Q: Can you give me your mangalist as an example?
-
-A: No that is confidential ;)
-
-Obviously this only works with manga that are up to date on mangadex.org.
+Obviously this only works with mangas that are up to date on mangadex.org.
